@@ -31,4 +31,5 @@ jobs:
     - name: Update domains in config.json
       run: |
         cd ${{ github.workspace }}
+
         python update_domains.py

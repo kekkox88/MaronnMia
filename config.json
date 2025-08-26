@@ -1,4 +1,4 @@
- {
+{
     "Siti": {
         "StreamingCommunity": {
             "url": "https://streamingunity.cam",
@@ -90,4 +90,5 @@
         "Remote_Instance": "1",
         "Global_Proxy": "0"
     }
+
 }
